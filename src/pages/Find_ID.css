@@ -1,0 +1,153 @@
+.box {
+  background-color: #FFFFFF;
+  width: 520px;
+  height: 625px;
+  border-radius: 12px 12px 12px 12px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  box-shadow: 1px 1px 15px #3f3f3fe8;
+}
+h1 {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 3.5rem;
+}
+.home1 {
+  width: 11%;
+  height: 8%;
+  position: absolute;
+  top: 6%;
+  left: 6%;
+  transform: translate(-50%,-50%);
+}
+.home1:hover {
+  opacity: 0.5;
+}
+.Find_id {
+  border:1px solid #BDBDBD;
+  width: 40%;
+  padding: 15px;
+  position: absolute;
+  top: 25%;
+  left: 30%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  font-weight: 700;
+  border-bottom: 5px solid  #000000;
+  cursor: pointer;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  background-color: #000000;
+  color: #FFFFFF;
+  outline: none;
+}
+.Find_pass {
+  border:1px solid #BDBDBD;
+  width: 40%;
+  padding: 15px;
+  position: absolute;
+  top: 25%;
+  left: 69.5%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  font-weight: 700;
+  border-bottom: 5px solid #000000;
+  cursor: pointer;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  background-color: #FFFFFF;
+  outline: none;
+}
+.Find_pass:hover {
+  background-color: #819FF7;
+}
+.name {
+  padding: 15px;
+  width: 20%;
+  position: absolute;
+  top: 45%;
+  left: 32%;
+  transform: translate(-50%,-50%);
+  font-size: 1rem;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid #A4A4A4;
+  outline: none;
+}
+.text_1 {
+  position: absolute;
+  top: 43%;
+  left: 8.5%;
+  transition: translate(-50%,-50%);
+  font-size: 1.2rem;
+}
+.mail {
+  padding: 15px;
+  width: 50%;
+  position: absolute;
+  top: 63%;
+  left: 47%;
+  transform: translate(-50%,-50%);
+  font-size: 1rem;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid #A4A4A4;
+  outline: none;
+}
+.text_2 {
+  position: absolute;
+  top: 61%;
+  left: 5%;
+  transition: translate(-50%,-50%);
+  font-size: 1.2rem;
+}
+.idpass {
+  background: #000000;
+  color:#FFFFFF;
+  text-transform: uppercase;
+  padding: 10px;
+  min-width: 88%;
+  font-weight: 700;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: color 0.4s linear;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  letter-spacing: 2px;
+  border:0;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.idpass::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #819FF7;
+  z-index: -1;
+  transition: transform 0.5s;
+  transform-origin: 0 0;
+  transition-timing-function: cubic-bezier(0.5,1.6,0.4,0.7);
+  border-radius: 10px 10px 10px 10px;
+}
+.idpass::before {
+  transform: scaleX(0);
+}
+
+.idpass:hover::before {
+  transform: scaleX(1);
+}
+.Log {
+  width: 75%;
+  height: 5%;
+  position: absolute;
+  top: 95%;
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
