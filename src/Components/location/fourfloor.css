@@ -1,0 +1,403 @@
+#four_r1{
+position: absolute;
+width: 103px;
+height: 198px;
+left: 0px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_r2{
+position: absolute;
+width: 106px;
+height: 198px;
+left: 1268px;
+top: 512px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_r3{
+  position: absolute;
+  width: 90px;
+  height: 99px;
+  left: 1178px;
+  top: 512px;
+  
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#four_r4{
+  position: absolute;
+  width: 134px;
+  height: 198px;
+  left: 511px;
+  top: 512px;
+  
+  border: 1px solid #000000;
+  box-sizing: border-box;
+
+}
+#four_r5{
+  position: absolute;
+width: 133px;
+height: 99px;
+left: 103px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_r6{
+  position: absolute;
+width: 177px;
+height: 99px;
+left: 645px;
+top: 512px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+#four_r7{
+  position: absolute;
+  width: 179px;
+  height: 99px;
+  left: 822px;
+  top: 512px;
+  
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#four_r8{
+
+  position: absolute;
+  width: 177px;
+  height: 99px;
+  left: 1001px;
+  top: 512px;
+  
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#four_r9{
+  /* Rectangle 5 */
+
+
+position: absolute;
+width: 134px;
+height: 99px;
+left: 511px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_r10{
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 139px;
+height: 99px;
+left: 236px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_r11{
+  position: absolute;
+width: 136px;
+height: 99px;
+left: 375px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_r12{
+  position: absolute;
+  width: 623px;
+  height: 99px;
+  left: 645px;
+  top: 611px;
+  
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#four_r13{
+ 
+position: absolute;
+width: 408px;
+height: 99px;
+left: 103px;
+top: 512px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_t1{
+/* 여자 화장실 */
+
+
+position: absolute;
+width: 80px;
+height: 56px;
+left: 12px;
+top: 498px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t2{
+  position: absolute;
+width: 51px;
+height: 22px;
+left: 300px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t3{
+  /* 1-1 */
+
+
+position: absolute;
+width: 40px;
+height: 28px;
+left: 152px;
+top: 455px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t4{
+  /* 1-2 */
+
+
+position: absolute;
+width: 38px;
+height: 28px;
+left: 288px;
+top: 455px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t5{
+  /* 1학년 상담실 */
+
+
+position: absolute;
+width: 78px;
+height: 56px;
+left: 410px;
+top: 441px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+#four_t6{
+  /* 홈베이스 */
+
+
+position: absolute;
+width: 98px;
+height: 28px;
+left: 520px;
+top: 455px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t7{
+  /* 복 도 */
+
+
+  position: absolute;
+  width: 23px;
+  height: 56px;
+  left: 567px;
+  top: 583px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  
+  color: #000000;
+  
+
+}
+#four_t8{
+  /* 1-3 */
+
+
+position: absolute;
+width: 38px;
+height: 28px;
+left: 720px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+#four_t9{
+  /* 1-4 */
+
+
+position: absolute;
+width: 38px;
+height: 28px;
+left: 898px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t10{
+  /* 프로그래밍 1실 */
+
+
+position: absolute;
+width: 159px;
+height: 56px;
+left: 1012px;
+top: 550px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+#four_t11{
+  /* 복도 */
+
+
+position: absolute;
+width: 50px;
+height: 28px;
+left: 937px;
+top: 647px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+#four_t12{
+  position: absolute;
+width: 50px;
+height: 28px;
+left: 1203px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_t13{
+  /* 남자 화장실 */
+
+
+position: absolute;
+width: 72px;
+height: 56px;
+left: 1290px;
+top: 583px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#four_rr{
+  position: absolute;
+width: 90px;
+height: 99px;
+left: 421px;
+top: 611px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#four_t14{
+  
+position: absolute;
+width: 45px;
+height: 28px;
+left: 452px;
+top: 630px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Join.css';
 import home from '../img/home.png';
-import {Link} from 'react-router-dom';
+import {Link, Redirect } from 'react-router-dom';
 import axios from 'axios';
 
 class Join extends Component {
@@ -14,6 +14,8 @@ class Join extends Component {
             re_pw: '',
             email: '',
             name: '',
+            sf: '',
+            isRedirect: false
         };
         this.onTextValidation = this.onTextValidation.bind(this);
     }
@@ -123,15 +125,25 @@ class Join extends Component {
             this.setState({ pwError });
             reError = "";
             this.setState({ reError });
-            alert("회원가입 성공!");
-            axios.get('http://localhost:3001/regit', {
-                params: { id: 'velopert', name : 'anchaeung', pass : 'password', email: 'email@email.com'}
-            })
-                .then(response => { console.log(response) });
-            return true;
+            axios.get('http://localhost:4000/regit', {
+                params: { name: this.state.name, id: this.state.id, email: this.state.email, pass : this.state.pw }
+            }).then(response => {
+                console.log(response.data)
+                if(response.data === "success"){
+                    alert("회원가입 성공");
+                    this.setState({ isRedirect : true });
+                } else if(response.data === "fail"){
+                    alert("이미 가입된 아이디입니다.");
+                    return false;
+                }
+            });
+            
         }
     };
     render(){
+        if(this.state.isRedirect) {
+            return <Redirect to="/Main"/>
+        }
         return (
             <div className="boxbox">
                 <h1>회원가입</h1>

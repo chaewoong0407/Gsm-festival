@@ -6,6 +6,7 @@ import './Header.css';
 import show from '../../img/show.png';
 import close from '../../img/close-button.png';
 
+
 class Header extends Component {
     render() {
         return (
@@ -13,14 +14,14 @@ class Header extends Component {
             <div class="header">
                     <Link to="/Main"><img className="logos" src={logo_white} width="200px" height="100px" alt="로고"/></Link>
                     <input type="checkbox" id="chk"/>
-                    <label for="chk" class="show-menu-btn">
+                    <label for="chk" className="show-menu-btn">
                         <img src={show} alt="쇼"/>
                     </label> 
                     <ul className="menu">
-                        <a className="top">전공 동아리</a>
-                        <a>자율 동아리</a>
-                        <a>학교 건물 위치</a>
-                        <a className="bottom">시간표</a>
+                        <Link to="/Major" className="top">전공 동아리</Link>
+                        <Link to="/free">자율 동아리</Link>
+                        <Link to="/floor">학교 건물 위치</Link>
+                        <Link to="/Main" className="bottom">시간표</Link>
                         <Link to="/Register" className="side">회원가입</Link>
                         <Link to="/" className="side">로그인</Link>
                         <label for="chk" class="hide-menu-btn">

@@ -1,0 +1,57 @@
+.schedule_box {
+    position: absolute;
+    width: 900px;
+    height: 200px;
+    top: 59.7%;
+    left:50.2%;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: white;
+    background-color: #30bb88;
+    box-shadow: 1px 1px 6px #3f3f3fe8;
+}
+.int {
+    width: 500px;
+    height: 140px;
+    background-color: #00675a;
+    border-radius: 5px 5px 0 0;
+    line-height: 35px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 200px;
+    box-shadow: 1px 1px 6px #3f3f3fe8;
+}
+.dint{
+    background-color: #008170;
+}
+.mainimg {
+    position: absolute;
+    left: 50.2%;
+    box-shadow: 1px 1px 6px #3f3f3fe8;
+}
+.eat {
+    position: absolute;
+    left: 3.5%;
+    top: 15%;
+    width: 300px;
+    height: 600px;
+    border-radius: 12px 12px 12px 12px;
+    box-shadow: 1px 1px 15px #3f3f3fe8;
+}
+.notice{
+    position: absolute;
+    left: 21%;
+    top: 15%;
+    width:550px;
+    height: 600px;
+    text-align: center;
+    border-radius: 12px 12px 12px 12px;
+    box-shadow: 1px 1px 15px #3f3f3fe8;
+}
+p {
+    font-size: 19px;
+    margin-top: 5px;
+    margin-left: 70px;
+}

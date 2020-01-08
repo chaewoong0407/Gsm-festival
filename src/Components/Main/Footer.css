@@ -1,0 +1,25 @@
+.Front {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align: center;
+}
+.Back {
+    position: absolute;
+    top: 7%;
+    left: 60%;
+    text-align: center;
+}
+.seat {
+    position: absolute;
+    top: 70%;
+    left: 15%;
+}
+.gsm {
+    position: absolute;
+    top: 5%;
+    left: 16%;
+}
+a {
+    font-size: larger;
+}

@@ -1,0 +1,622 @@
+.new {
+  position: absolute;
+  top: 0%;
+  left: 10%;
+}
+#one_r1{
+position: absolute;
+width: 103px;
+height: 198px;
+left: 0px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_r2{
+position: absolute;
+width: 106px;
+height: 198px;
+left: 1554px;
+top: 512px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_r3{
+  position: absolute;
+  width: 80px;
+  height: 99px;
+  left: 1128px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r4{
+  position: absolute;
+  width: 134px;
+  height: 198px;
+  left: 511px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+
+}
+#one_r5{
+  position: absolute;
+width: 145px;
+height: 99px;
+left: 103px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_r6{
+  position: absolute;
+width: 145px;
+height: 99px;
+left: 645px;
+top: 512px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+#one_r7{
+  position: absolute;
+  width: 213px;
+  height: 99px;
+  left: 790px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r8{
+
+  position: absolute;
+  width: 127px;
+  height: 99px;
+  left: 1001px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r9{
+  /* Rectangle 5 */
+
+
+position: absolute;
+width: 130px;
+height: 99px;
+left: 382px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_r10{
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 136px;
+height: 99px;
+left: 510px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_rr10
+{
+  position: absolute;
+  width: 135px;
+  height: 50px;
+  left: 510px;
+  top: 710px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_rrr10
+{
+  position: absolute;
+  width: 127px;
+  height: 50px;
+  left: 1001px;
+  top: 463px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r11{
+  position: absolute;
+width: 136px;
+height: 99px;
+left: 248px;
+top: 413px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_r12{
+  position: absolute;
+  width: 910px;
+  height: 99px;
+  left: 645px;
+  top: 611px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r13{
+
+position: absolute;
+width: 408px;
+height: 99px;
+left: 103px;
+top: 512px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_r14
+{
+  position: absolute;
+  width: 125px;
+  height: 50px;
+  left: 1003px;
+  top: 709px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r15
+{
+  position: absolute;
+  width: 125px;
+  height: 100px;
+  left: 1207px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r16
+{
+  position: absolute;
+  width: 125px;
+  height: 100px;
+  left: 1331px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r17
+{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 1455px;
+  top: 512px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r18
+{
+  position: absolute;
+  width: 125px;
+  height: 50px;
+  left: 1430px;
+  top: 709px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_r19
+{
+  position: absolute;
+  width: 106px;
+  height: 50px;
+  left: 1554px;
+  top: 709px;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#one_t1{
+/* 여자 화장실 */
+
+
+position: absolute;
+width: 80px;
+height: 56px;
+left: 12px;
+top: 498px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#one_t2{
+  position: absolute;
+width: 51px;
+height: 22px;
+left: 300px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#one_t3{
+  /* 보건실 */
+
+
+position: absolute;
+width: 120px;
+height: 28px;
+left: 138px;
+top: 450px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+text-align: left;
+}
+#one_t4
+{
+  position: absolute;
+  width: 120px;
+  height: 28px;
+  left: 538px;
+  top: 450px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#one_tt4
+{
+  position: absolute;
+  width: 120px;
+  height: 28px;
+  left: 538px;
+  top: 720px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+#one_t5{
+  /* 교장실 */
+
+
+position: absolute;
+width: 78px;
+height: 56px;
+left: 281px;
+top: 450px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+#one_t6{
+  /* 행정실 */
+
+
+position: absolute;
+width: 98px;
+height: 28px;
+left: 410px;
+top: 450px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#one_t7{
+  /* 복 도 */
+
+
+  position: absolute;
+  width: 23px;
+  height: 56px;
+  left: 567px;
+  top: 583px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+
+}
+#one_t8{
+  /* 1-3 */
+
+
+position: absolute;
+width: 150px;
+height: 28px;
+left: 680px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+#one_t9{
+  /* 교무실 */
+
+
+position: absolute;
+width: 150px;
+height: 28px;
+left: 860px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#one_t10{
+  /* 복도 boder hide*/
+
+
+  position: absolute;
+  width: 124px;
+  height: 99px;
+  left: 1003px;
+  top: 603px;
+
+  background-color: #FFFFFF;
+  box-sizing: border-box;
+
+}
+#one_tt10
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1038px;
+  top: 475px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#one_t11{
+  /* 복도 */
+
+
+position: absolute;
+width: 50px;
+height: 28px;
+left: 1067px;
+top: 647px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+#one_t12{
+  position: absolute;
+width: 150px;
+height: 28px;
+left: 1130px;
+top: 535px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#one_t13{
+  /* 남자 화장실 */
+
+
+position: absolute;
+width: 72px;
+height: 56px;
+left: 1570px;
+top: 593px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#one_rr{
+  position: absolute;
+width: 90px;
+height: 99px;
+left: 421px;
+top: 611px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#one_t14{
+
+position: absolute;
+width: 45px;
+height: 28px;
+left: 452px;
+top: 630px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+#one_t15
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1030px;
+  top: 720px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#one_t16
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1220px;
+  top: 535px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#one_t17
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1348px;
+  top: 535px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#one_t18
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1468px;
+  top: 550px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#one_t19
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1453px;
+  top: 720px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#one_t20
+{
+  position: absolute;
+  width: 150px;
+  height: 28px;
+  left: 1580px;
+  top: 720px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}

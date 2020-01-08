@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from "styled-components";
 import { Route, BrowserRouter } from "react-router-dom";
-import { Login, Register, Find, Pass, Join, Main } from 'pages';
+import { Login, Register, Join, Main, Major, Free, Find, Pass, Floor, one, two, three, four } from 'pages';
 
 class App extends Component {
   render(){
@@ -15,6 +15,13 @@ class App extends Component {
           <Route path="/Pass" component={Pass} />
           <Route path="/Join" component={Join} />
           <Route path="/Main" component={Main} />
+          <Route path="/Major" component={Major} />
+          <Route path="/Free" component={Free} />
+          <Route path="/Floor" component={Floor} />
+          <Route path="/one" component={one} />
+          <Route path="/two" component={two} />
+          <Route path="/three" component={three} />
+          <Route path="/four" component={four} />
         </Container>
         </BrowserRouter>
       </div>

@@ -1,21 +1,19 @@
 import React, { Component } from 'react';
-import styled from 'styled-components';
 import Header from '../Components/Main/Header';
-import Body from '../Components/Main/Body';
-import Footer from '../Components/Main/Footer';
+import Body from '../Components/Ja/Body';
+import styled from 'styled-components';
 
-
-class Main extends Component {
+class free extends Component {
     render(){
         return(
             <Container>
                 <Header />
                 <Body />
-                <Footer/>
             </Container>
         );
     };
 }
+
 const Container = styled.div`
   position: absolute;
   top: 0;
@@ -25,4 +23,4 @@ const Container = styled.div`
   background-color: white;
 `;
 
-export default Main;
+export default free;
